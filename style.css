@@ -14,7 +14,7 @@ body{
 .sidebar
 {
  grid-area:sidebar;
- background: -moz-linear-gradient(left, rgba(255,93,177,1) 0%, rgba(237,3,233,1) 40%, rgba(200,5,235,1) 69%, rgba(130,172,240,1) 99%, rgba(130,172,240,1) 100%);
+ background:  rgba(255,93,177,1);
  justify-content: center;
 }
 .footer
